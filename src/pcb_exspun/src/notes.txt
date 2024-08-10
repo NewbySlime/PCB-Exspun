@@ -1,0 +1,2 @@
+21 january,
+I found something cool by accident, while the tim2 (16mhz) pwm1 (arr= 0xffff, ccr1= 50) is active and the same pin is used as input the lcd create a cool effect. It's like using wave effect on a text. The way it works by switching to other text as fast as possible.

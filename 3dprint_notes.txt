@@ -1,0 +1,29 @@
+File: base.obj
+Resolusi: 0.2mm
+Support overhang angle: 0 derajat
+
+File: base_part1.obj
+Resolusi: 0.2mm
+
+File: base_screws.obj
+Resolusi: 0.1mm
+
+File: bottom_finish.obj
+Resolusi: 0.1mm
+
+File: motor_part1.obj
+Resolusi: 0.2mm
+
+File: motor_part1_2.obj
+Resolusi: 0.2mm
+
+File: motor_part2.obj
+Resolusi: 0.2mm
+
+File: top_cover_finish.obj
+Resolusi: 0.1mm
+
+
+Support: Semua
+Infil: 20%
+Default support overhang angle: 45 derajat
